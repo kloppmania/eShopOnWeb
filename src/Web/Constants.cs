@@ -1,4 +1,4 @@
-﻿// My third change
+﻿// My third change.
 namespace Microsoft.eShopWeb.Web;
 
 public static class Constants
